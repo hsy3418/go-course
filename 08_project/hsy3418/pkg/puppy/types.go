@@ -1,4 +1,4 @@
-package main
+package puppy
 
 // Puppy defines the data structure corresponding to a pet
 type Puppy struct {

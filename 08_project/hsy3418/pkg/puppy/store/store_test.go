@@ -6,7 +6,6 @@ import (
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/suite"
-	store "github.com/anz-bank/go-course/08_project/hsy3418/pkg/puppy/store"
 	puppy "github.com/anz-bank/go-course/08_project/hsy3418/pkg/puppy"
 
 )
